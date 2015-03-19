@@ -1,0 +1,31 @@
+{
+    "name": "bootstrapless-star-rating",
+    "version": "0.0.1",
+    "homepage": "https://github.com/bschettino/bootstrapless-star-rating",
+    "authors": [
+        "Bruno Schettino <bpschettino@gmail.com>"
+    ],
+    "description": "Bootstrapless version of https://github.com/kartik-v/bootstrap-star-rating",
+    "main": [
+        "./css/star-rating.min.css",
+        "./js/star-rating.min.js"
+    ],
+    "keywords": [
+        "bootstrapless",
+        "star",
+        "rating"
+    ],
+    "dependencies": {
+        "jquery": ">= 1.9.0",
+    },
+    "license": "BSD-3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "composer.json",
+        "examples",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
