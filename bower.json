@@ -8,7 +8,9 @@
     "description": "Bootstrapless version of https://github.com/kartik-v/bootstrap-star-rating",
     "main": [
         "./css/star-rating.min.css",
-        "./js/star-rating.min.js"
+        "./css/bootstrapless.css",
+        "./js/star-rating.min.js",
+        "./fonts/*"
     ],
     "keywords": [
         "bootstrapless",
